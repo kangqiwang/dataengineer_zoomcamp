@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "amberdata",
+  "private_key_id": "ce2874649a15ba0d099429bb005f9634edf55adc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDvfxcqkgS/VOlr\nJF/xK3AJ6prLn4emGthcNhvZvptmCAY7MPOG5oMwWivWaKCtrIfuIXyrErLnDDwN\nCsxOZhUt4LgtOrFx/zF4J7OIM3PEEH0uW5YMNewt/xq60aOTcFTAZyeKzP8WW36m\n4HTJRXlqGu4qXt2T3akZuz6TeAZDxed2ribSm7bMy4GgKHoKizbxgYTBrWOcbuSh\nBZA8t4QAZmBxW2cT5X5RmHPpBGFvhdta/GGVHF7/sqQ79wSZzzewYUvx6W8DZ9f5\n3WUAyIFYdA2+laIPqdflHHlSeyv7PNw6FrWMd3ff3Xc6cq9IGDZAHQwzdf8iJA7A\nhDl3EVD5AgMBAAECggEABmMhfIlUEWrpJhTcbtj643YmIQvE+TPvv5cn1f5PNFY+\nyExYFP8dJ5Miu9Si2GQ+DyabJbrZb5pewvWd7kdVsEQKgBZNI4kBSj7mJa9C7/Xa\nniZjfDmMmMtxbI2+auZiNEFsB2J2jnjr30p5guFUnspPaMI1REYd8OmSqSnYd5fd\n4LqFB79DEzagU3ecOIxi+7yz260qSbBrM1Fi74fxGOV4KfPLOYO3w07CvWROvhKb\nePKnfkc8w6PbjTiLYpms4q33BblbnSBV9ZsjDTAatWLwMeFLte8CT6SVp5H2DfDS\nRl+ZnTKGlgbdz2lgr6W1cqfYP0NoJCaHiPbnqPs1UwKBgQD/wXIYEZjTnDhyIG+h\nR4Kk7dPmsqWWcudTqTUq0b+5S7II7jXrbPHnGfFSfkjHUvn0zIKv+CLQunXgP+KB\n9CdoAXF4GkhkE+wE6h3DoTEpfm+VgwCEYmziYfA1DNTDSm3rBSgGjcCwQ+Dq2kBw\nq1CIJFVc8MOow/eTSIMpe4fYTwKBgQDvuasEcBHgp5LohmVIvLH6sh4dVPcPgjvi\nJjs7LJdGkUYqVrMp+dw8xS91wnWrMUToA1ynMxHc8PO/gYWdvygFVgEhPzLmGfEu\nS2t2Q7cXxg1RqlAd3OGHGlFaPm6JtX002JQrNEzqb7YrnjKSb847l1S44xq1ieTC\nbtWXoLKoNwKBgDjx2XWCdYSoQ+klT7WZNn2CdqvnGvdknh0Cj9P437diI0HZyCej\nGjlajWDQvWOkFgNrha2okhfnbFeB4e0Nb7i4mYskTvn5dZOijP4B5fBXNoETqgnP\n4G6HX/Rv5u+UouSxQTg0V7Lnaizga3iqrEOj013ePbJV78nbW1jhKF4BAoGBAOwy\nB6prsXGkKj8ojArKwKG9daZ43KRPMSl1ec6n9LT21idJHWYyZSkLL+PbIYz3Eml3\nRocG7oa+casytq/idFAtmRdk6YWF8fgnH057EZ8+6Eiagi2qQBuZdqZv9QGB7Edx\nTSv0cARc5SS8zh8yQgS86iDwwpQztU1NXu3yy5SpAoGAabpPlrX3q1XWBBWChMMt\neG3y8/xTDH0Ps1ma0b2+8SDmYr0xO5X5HM5GTkasmlS7UzvnMxbkq4RF2JxsMwzr\ndsst2Ru4SkOrNxTOG00zdf8De0nECfdSvBHF7GysYzqQeajxk2LtTTzl+LcpIzgd\n0+x0koRtfG8uPPSbWQcU+3Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "amber-data-user@amberdata.iam.gserviceaccount.com",
+  "client_id": "113812322593708393773",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amber-data-user%40amberdata.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
